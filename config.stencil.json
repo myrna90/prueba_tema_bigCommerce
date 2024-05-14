@@ -1,0 +1,11 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  },
+  "normalStoreUrl": "https://myrnatestsb.mybigcommerce.com/?ctk=2dcf4223-a11f-4265-a45a-7f30db152e28",
+  "port": 3000,
+  "packageManager": "npm"
+}
